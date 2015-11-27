@@ -4,4 +4,4 @@
 
 $('document').ready ->
   $('#show_model_name').on 'click', ->
-    alert $('body').data("model")
+    alert $('body').data('model')
